@@ -9,4 +9,4 @@ The financial performance of a quantitative strategy can be measured by its Shar
 
 - Ranked 2nd on the public leaderbord. [link here](https://challengedata.ens.fr/participants/challenges/13/ranking/public)
 
-- [Notebook](Sharpe_ratio_v6.ipynb)
+- [Notebook](Sharpe_ratio_final.ipynb)
