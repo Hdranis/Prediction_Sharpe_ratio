@@ -8,5 +8,8 @@ Napoleon is a company specialised in designing quantitative investment solutions
 The financial performance of a quantitative strategy can be measured by its Sharpe ratio over a period, which corresponds to its growth performance divided by its volatility on this period. As a consequence, given a set of quantitative strategies and given a period, it is almost always possible to create a linear combination of strategies (blend) whose Sharpe ratio will be better (higher) than the Sharpe ratio of each individual quantitative strategy.
 
 - Ranked 2nd on the public leaderbord. [link here](https://challengedata.ens.fr/participants/challenges/13/ranking/public)
+- Metric = Mean Absolut Error
+- My score = 0.5388 
+- Benchmark = 0.5959
 
 - [Notebook](Sharpe_ratio_final.ipynb)
